@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi, I'm a Cloud & DevOps Builder
 
-<!--
-**mjulestek/mjulestek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AWS • Terraform • Docker • Linux • CI/CD**
+*with a side focus on clean, modern web design.*
 
-Here are some ideas to get you started:
+I’m passionate about creating **scalable cloud infrastructure**,
+automating workflows, and building **simple, user-friendly web experiences**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always learning. Always building. Always improving.
+
+---
+
+## ☁️ Cloud & DevOps
+
+* **AWS:** EC2, S3, IAM, VPC, Lambda
+* **Infrastructure as Code:** Terraform
+* **Containers:** Docker
+* **Version Control:** Git & GitHub
+* **Systems:** Linux & Bash
+* **Currently learning:** CI/CD, monitoring, cloud security
+
+---
+
+## 🌐 Web Design (Side Skill)
+
+* HTML, CSS, responsive layouts
+* Clean UI structure & usability
+* Basic JavaScript
+* Focus on **fast, simple, modern interfaces**
+
+---
+
+## 🧪 Current Work
+
+* Building **real AWS architectures from scratch**
+* Automating infrastructure using **Terraform**
+* Connecting **cloud backends with web frontends**
+* Growing toward **production-ready DevOps skills**
+
+---
+
+## 🎯 Goal
+
+Become a **Cloud & DevOps Engineer** capable of designing, deploying,
+and maintaining **secure, scalable, real-world systems**.
+
+---
+
+
